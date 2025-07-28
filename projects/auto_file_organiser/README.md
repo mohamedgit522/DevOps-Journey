@@ -15,26 +15,26 @@ This was built as a hands-on project while learning Bash and exploring DevOps to
 
 By default, the script organizes the Downloads folder, but you can pass any target folder as an argument.
 
-```bash
+
 /opt/homebrew/bin/bash organise.sh [target-folder]
 # Example:
 bash /opt/homebrew/bin/bash organise.sh ~/test_organiser
 
-Requirements
+## Requirements:
+
 Bash 4 or higher (macOS ships with Bash 3 by default)
 
 On macOS, you can install a newer version using Homebrew:
 
-bash
-Copy
-Edit
 brew install bash
 file command (comes with most Unix systems)
 
-Logging
+Logging:
+
 All activity is logged in a file named organise.log in the same folder as the script. This includes timestamps, file names, and destination folders.
 
-File Type Support
+## File Type Support
+
 The script currently supports the following categories:
 
 Images: jpg, jpeg, png, gif, bmp, webp
@@ -51,15 +51,17 @@ Others: fallback for anything not matched
 
 You can add more types by editing the FILE_TYPES and MIME_TYPES mappings in the script.
 
-To Do
-Add a dry-run option
+## To Do:
 
-Add CLI flags for more control (--help, --dry-run, etc.)
+- Add a dry-run option
 
-Refactor into a more flexible CLI tool
+- Add CLI flags for more control (--help, --dry-run, etc.)
 
-Package for easier installation and reuse
+- Refactor into a more flexible CLI tool
 
-Why I Built This
+- Package for easier installation and reuse
+
+## Why I Built This:
+
 This script is part of my ongoing journey into DevOps. I wanted to create a small, focused tool that helps automate repetitive tasks while getting hands-on practice with Bash, Git, and scripting best practices.
 
