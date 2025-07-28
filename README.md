@@ -62,6 +62,6 @@ DevOps-Journey/
 
 This is a personal learning repository, but feel free to open issues or pull requests if you have suggestions or improvements!
 
-Contact
+**Contact:**
 You can connect with me via [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-1a428320a)
 
