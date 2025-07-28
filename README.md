@@ -41,7 +41,7 @@ DevOps-Journey/
 ├── projects/                 # Personal DevOps projects (e.g., automation scripts)
 └── README.md                 # This overview
 
-How to Contribute
+## How to Contribute
 This is a personal learning repository, but feel free to open issues or pull requests if you have suggestions or improvements!
 
 
