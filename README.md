@@ -2,29 +2,29 @@
 
 Welcome to my DevOps learning journey! This repository is a centralized home for all my learning modules and projects as I build skills across the core DevOps domains.
 
-- **Linux & Bash Practice** (`linux-bash-practice/`)  
+- **Linux & Bash Practice**  
   OverTheWire Bandit and Bash scripting challenges — fully integrated here as a folder.
 
-- **Projects** (`projects/`)  
+- **Projects** 
   Various DevOps projects and exercises, including:  
   - Auto File Organiser (`projects/auto_file_organiser/`)
 
-- **Networking** (`networking/`)  
+- **Networking**   
   Networking fundamentals and labs
 
-- **Docker & Containers** (`docker/`)  
+- **Docker & Containers**  
   Containerization and Docker projects
 
-- **AWS** (`aws/`)  
+- **AWS**
   AWS cloud learning and projects
 
-- **Terraform** (`terraform/`)  
+- **Terraform** 
   Infrastructure as Code with Terraform
 
-- **CI/CD** (`cicd/`)  
+- **CI/CD**  
   Continuous Integration and Delivery pipelines
 
-- **Kubernetes** (`kubernetes/`)  
+- **Kubernetes** 
   Container orchestration with Kubernetes
 
 ---
@@ -55,11 +55,8 @@ DevOps-Journey/
 ├── cicd/                     # CI/CD pipelines and automation (coming soon)
 ├── kubernetes/               # Kubernetes learning and projects (coming soon)
 ├── projects/                 # Personal DevOps projects (e.g., automation scripts)
-└── README.md                 # This overview```
-
-
-## How to Contribute 
-
+└── README.md                 # This overview
+```
 
 ## How to Contribute
 
