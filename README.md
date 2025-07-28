@@ -2,18 +2,34 @@
 
 Welcome to my DevOps learning journey! This repository is a centralized home for all my learning modules and projects as I build skills across the core DevOps domains.
 
+- **Linux & Bash Practice** (`linux-bash-practice/`)  
+  OverTheWire Bandit and Bash scripting challenges — fully integrated here as a folder.
+
+- **Projects** (`projects/`)  
+  Various DevOps projects and exercises, including:  
+  - Auto File Organiser (`projects/auto_file_organiser/`)
+
+- **Networking** (`networking/`)  
+  Networking fundamentals and labs
+
+- **Docker & Containers** (`docker/`)  
+  Containerization and Docker projects
+
+- **AWS** (`aws/`)  
+  AWS cloud learning and projects
+
+- **Terraform** (`terraform/`)  
+  Infrastructure as Code with Terraform
+
+- **CI/CD** (`cicd/`)  
+  Continuous Integration and Delivery pipelines
+
+- **Kubernetes** (`kubernetes/`)  
+  Container orchestration with Kubernetes
+
 ---
 
 ## Learning Modules & Projects
-
-- **[Linux & Bash Practice](./linux-bash-practice)** — Solutions for OverTheWire Bandit and Bash scripting challenges  
-- **Projects** — Various personal and practical DevOps projects and exercises  
-- **Networking** — Networking fundamentals, labs, and hands-on exercises  
-- **Docker & Containers** — Containerization concepts and Docker-based projects  
-- **AWS** — AWS cloud services learning and real-world projects  
-- **Terraform** — Infrastructure as Code using Terraform  
-- **CI/CD** — Building Continuous Integration and Delivery pipelines  
-- **Kubernetes** — Container orchestration and Kubernetes hands-on  
 
 ---
 
@@ -21,15 +37,15 @@ Welcome to my DevOps learning journey! This repository is a centralized home for
 
 To clone this repository along with all submodules (like Linux & Bash Practice), use the following command:
 
-```bash
-git clone --recurse-submodules git@github.com:yourusername/DevOps-Journey.git
+`git clone --recurse-submodules git@github.com:yourusername/DevOps-Journey.git`
 
 If you have already cloned without submodules, initialize them with:
 
-git submodule update --init --recursive
+`git submodule update --init --recursive`
 
-Repository Structure Overview
+## Repository Structure Overview
 
+```
 DevOps-Journey/
 ├── linux-bash-practice/       # Submodule with Linux & Bash learning paths
 ├── networking/                # Networking module (coming soon)
@@ -39,13 +55,16 @@ DevOps-Journey/
 ├── cicd/                     # CI/CD pipelines and automation (coming soon)
 ├── kubernetes/               # Kubernetes learning and projects (coming soon)
 ├── projects/                 # Personal DevOps projects (e.g., automation scripts)
-└── README.md                 # This overview
+└── README.md                 # This overview```
+
+
+## How to Contribute 
+
 
 ## How to Contribute
+
 This is a personal learning repository, but feel free to open issues or pull requests if you have suggestions or improvements!
 
-
 Contact
-You can connect with me via LinkedIn
-
+You can connect with me via [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-1a428320a)
 
