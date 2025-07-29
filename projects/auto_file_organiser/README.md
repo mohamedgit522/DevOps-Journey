@@ -1,8 +1,11 @@
 # Auto File Organizer
 
-A Bash script that organizes files in a specified folder into subfolders based on file type. It uses both file extensions and MIME types to determine where a file belongs.
+I often found my Downloads and project folders filled with a mess of mixed file types - images, PDFs, random text files, and old zips all jumbled together.
 
-This was built as a hands-on project while learning Bash and exploring DevOps tools. The goal was to create something useful and improve it incrementally.
+Instead of manually cleaning them up each time, I decided to apply my Bash skills to solve this problem and automate the repetitive task.
+
+This script organizes any folder into subfolders based on file type, making it clean and manageable in seconds.
+
 
 ## Features
 
@@ -34,9 +37,9 @@ Replace [folder_path] with the directory you want to organize. If you omit it, t
 By default, the script organizes the Downloads folder, but you can pass any target folder as an argument.
 
 ## Requirements
-Bash 4 or higher (macOS ships with Bash 3 by default)
+- Bash 4 or higher (macOS ships with Bash 3 by default)
 
-`file` command (comes with most Unix systems)
+- `file` command (comes with most Unix systems)
 
 On macOS, you can install a newer version of Bash using Homebrew:
 
@@ -50,30 +53,41 @@ All activity is logged in a file named organise.log in the same folder as the sc
 
 The script currently supports the following categories:
 
-Images: jpg, jpeg, png, gif, bmp, webp
+- **Images:** jpg, jpeg, png, gif, bmp, webp
 
-Documents: pdf, docx, txt, csv
+- **Documents:** pdf, docx, txt, csv
 
-Audio: mp3
+- **Audio:** mp3
 
-Video: mp4
+- **Video:** mp4
 
-Archives: zip
+- **Archives:** zip
 
-Others: fallback for anything not matched
+- **Others:** fallback for anything not matched
 
 You can add more types by editing the `FILE_TYPES` and `MIME_TYPES` mappings in the script.
 
 ## Roadmap
 
-Add a dry-run option
+- Add --dry-run option to preview actions before running
 
-Add CLI flags for more control (`--help`, `--dry-run`, etc.)
+- Add CLI flags for more control (`--help`, `--dry-run`, etc.)
 
-Add support for running as a cron job (currently not implemented — I prefer running it manually for now to keep control)
+- Add support for running as a cron job (currently not implemented — I prefer running it manually for now to keep control)
 
-Package for easier installation and reuse
+- Package for easier installation and reuse
 
 ## Why I Built This
 
-I created this script because I was tired of messy folders filled with all kinds of files. Applying my Bash skills to automate organizing saved me time and made the process effortless. This project is part of my journey into DevOps and scripting best practices.
+This project started as a real problem-solving exercise: a messy folder full of mixed files.
+It became a way to:
+
+
+- Automate a repetitive task I was doing manually.
+
+- Practice Bash scripting and automation.
+
+- Learn Git and share a practical DevOps-related project on GitHub.
+
+## How to Contribute
+
