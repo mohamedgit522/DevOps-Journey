@@ -2,6 +2,12 @@
 
 Welcome to my DevOps learning journey! This repository is a centralized home for all my learning modules and projects as I build skills across the core DevOps domains.
 
+---
+
+## Learning Modules & Projects
+
+---
+
 - **Linux & Bash Practice**  
   OverTheWire Bandit and Bash scripting challenges — fully integrated here as a folder.
 
@@ -26,12 +32,6 @@ Welcome to my DevOps learning journey! This repository is a centralized home for
 
 - **Kubernetes** 
   Container orchestration with Kubernetes
-
----
-
-## Learning Modules & Projects
-
----
 
 ## Getting Started
 
