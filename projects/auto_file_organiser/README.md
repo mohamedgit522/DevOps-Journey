@@ -88,6 +88,3 @@ It became a way to:
 - Practice Bash scripting and automation.
 
 - Learn Git and share a practical DevOps-related project on GitHub.
-
-## How to Contribute
-
