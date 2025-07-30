@@ -82,7 +82,7 @@ You can add more types by editing the `FILE_TYPES` and `MIME_TYPES` mappings in 
 
 - Add CLI flags for more control (`--help`, `--dry-run`, etc.)
 
-- Add support for running as a cron job (currently not implemented — I prefer running it manually for now to keep control)
+- Add support for running as a cron job (currently not implemented - I prefer running it manually for now to keep control)
 
 - Package for easier installation and reuse
 
