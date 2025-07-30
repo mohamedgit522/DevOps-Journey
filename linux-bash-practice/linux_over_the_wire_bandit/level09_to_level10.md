@@ -1,12 +1,12 @@
 
 # Bandit Level 9 → Level 10
 
-## The Goal 🎯  
+## The Goal
 Find the password which is a human-readable string preceded by "====" in `data.txt`.
 
 ---
 
-## My Solution 💻
+## My Solution 
 
 **Step 1:** SSH into the remote server  
 ```
