@@ -1,12 +1,12 @@
 
 # Bandit Level 4 → Level 5
 
-## The Goal 🎯  
+## The Goal 
 Find the password in the only human-readable file in the `inhere` directory.
 
 ---
 
-## My Solution 💻
+## My Solution 
 
 **Step 1:** SSH into the remote server  
 ```
