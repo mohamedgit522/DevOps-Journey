@@ -1,4 +1,4 @@
-## Bandit Level 0 → Level 1
+Bandit Level 0 → Level 1
 #
 # Goal:
 # Retrieve the password for Level 1.
