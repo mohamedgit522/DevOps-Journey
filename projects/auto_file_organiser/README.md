@@ -9,9 +9,11 @@ This script organizes any folder into subfolders based on file type, making it c
 ## Demo
 
 **Before:** A cluttered folder with mixed file types.
-![Before Screenshot](images/screenshot.before.png)
+
+![Before Screenshot](images/screenshot_before.png)
 
 **After:** Neatly organized into subfolders by file type.  
+
 ![After Screenshot](images/screenshot_after.png)  
 
 ## Features
