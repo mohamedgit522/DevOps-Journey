@@ -1,11 +1,11 @@
 # Bandit Level 1 → Level 2
 
-## The Goal 🎯
+## The Goal
 Retrieve the password stored in a file named `-` in the home directory.
 
 ---
 
-## My Solution 💻
+## My Solution
 
 **Step 1:** SSH into the remote server
 ```
