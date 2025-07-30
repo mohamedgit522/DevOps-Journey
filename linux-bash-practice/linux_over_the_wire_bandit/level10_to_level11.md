@@ -1,9 +1,4 @@
 
----
-
-### level10-11.md
-
-```markdown
 # Bandit Level 10 → Level 11
 
 ## The Goal  

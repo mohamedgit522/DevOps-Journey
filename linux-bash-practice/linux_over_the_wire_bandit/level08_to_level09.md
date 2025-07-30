@@ -1,9 +1,4 @@
 
----
-
-### level08-09.md
-
-```markdown
 # Bandit Level 8 → Level 9
 
 ## The Goal  

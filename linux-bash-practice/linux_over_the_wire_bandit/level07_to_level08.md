@@ -1,9 +1,4 @@
 
----
-
-### level07-08.md
-
-```markdown
 # Bandit Level 7 → Level 8
 
 ## The Goal 🎯  

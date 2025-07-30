@@ -1,8 +1,4 @@
 
----
-
-### level11-12.md
-
 # Bandit Level 11 → Level 12
 
 ## The Goal  

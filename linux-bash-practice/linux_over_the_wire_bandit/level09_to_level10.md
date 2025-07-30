@@ -1,9 +1,4 @@
 
----
-
-### level09-10.md
-
-```markdown
 # Bandit Level 9 → Level 10
 
 ## The Goal 🎯  

@@ -1,12 +1,7 @@
 
----
-
-### level05-06.md
-
-```markdown
 # Bandit Level 5 → Level 6
 
-## The Goal 🎯  
+## The Goal  
 Find the password file in `inhere` that is:  
 - Human-readable  
 - Exactly 1033 bytes  
@@ -14,7 +9,7 @@ Find the password file in `inhere` that is:
 
 ---
 
-## My Solution 💻
+## My Solution
 
 **Step 1:** SSH into the remote server  
 ```
