@@ -1,11 +1,11 @@
 # Bandit Level 3 → Level 4
 
-## The Goal 🎯  
+## The Goal 
 Retrieve the password stored in a hidden file inside the `inhere` directory.
 
 ---
 
-## My Solution 💻
+## My Solution
 
 **Step 1:** SSH into the remote server  
 
