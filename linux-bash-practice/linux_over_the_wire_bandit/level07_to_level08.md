@@ -1,12 +1,12 @@
 
 # Bandit Level 7 → Level 8
 
-## The Goal 🎯  
+## The Goal
 Find the password next to the word "millionth" in `data.txt`.
 
 ---
 
-## My Solution 💻
+## My Solution
 
 **Step 1:** SSH into the remote server  
 ```
