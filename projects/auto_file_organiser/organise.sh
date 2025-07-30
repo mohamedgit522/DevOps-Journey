@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Auto File Organiser"
-log_file="$HOME/auto-file-organizer/organise.log"
+log_file="$HOME/auto_file_organiser/organise.log"
 echo "[$(date)] Starting file organization..." >> "$log_file"
 
 # Uses Downloads by default if user doesn't specify a folder
