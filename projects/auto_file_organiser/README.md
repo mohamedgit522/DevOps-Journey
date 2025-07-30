@@ -6,6 +6,13 @@ Instead of manually cleaning them up each time, I decided to apply my Bash skill
 
 This script organizes any folder into subfolders based on file type, making it clean and manageable in seconds.
 
+## Demo
+
+**Before:** A cluttered folder with mixed file types.
+![Before Screenshot](./screenshot_before.png)
+
+**After:** Neatly organized into subfolders by file type.  
+![After Screenshot](./screenshot_after.png)  
 
 ## Features
 
