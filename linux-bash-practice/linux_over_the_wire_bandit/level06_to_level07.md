@@ -1,7 +1,7 @@
 
 # Bandit Level 6 → Level 7
 
-## The Goal 🎯  
+## The Goal
 Find the password file with these properties:  
 - Owned by user `bandit7`  
 - Owned by group `bandit6`  
@@ -9,7 +9,7 @@ Find the password file with these properties:
 
 ---
 
-## My Solution 💻
+## My Solution
 
 **Step 1:** SSH into the remote server  
 ```
