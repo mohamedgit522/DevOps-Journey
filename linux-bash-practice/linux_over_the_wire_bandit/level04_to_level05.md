@@ -1,9 +1,4 @@
 
----
-
-### level04-05.md
-
-```markdown
 # Bandit Level 4 → Level 5
 
 ## The Goal 🎯  
