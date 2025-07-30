@@ -1,11 +1,11 @@
 # Bandit Level 2 → Level 3
 
-## The Goal 🎯  
+## The Goal 
 Find the password stored in the file `"spaces in this filename"` in the home directory.
 
 ---
 
-## My Solution 💻
+## My Solution
 
 **Step 1:** SSH into the remote server  
 ```
