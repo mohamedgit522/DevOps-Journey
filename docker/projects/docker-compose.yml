@@ -1,0 +1,32 @@
+# Use Docker Compose file format 3.9
+version: '3.9'
+
+# Define all the services (containers) in this application
+services:
+  # ---- Flask application container ----
+  web:
+    # Build a Docker image from the Dockerfile in the current directory
+    build: .
+
+    # Map container port 5001 to localhost port 5001
+    # (so you can access the app in your browser)
+    ports:
+      - "5001:5001"
+
+    # Ensure Redis starts before the web service runs
+    depends_on:
+      - redis
+
+  # ---- Redis container ----
+  redis:
+    # Use the official Redis version 7 image from Docker Hub
+    image: redis:7
+
+    # Attach persistent storage (a volume) to Redis
+    volumes:
+      - redis-data:/data
+
+# Define the named volume that Docker will create and manage
+volumes:
+  redis-data:
+
